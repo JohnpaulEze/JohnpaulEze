@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnpaulEze
 - 👀 I’m interested in softwre development
-- 🌱 I’m currently learning rect.js
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... ezejohnpaul846@gmail.com
 
