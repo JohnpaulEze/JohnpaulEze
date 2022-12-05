@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnpaulEze
-- 👀 I’m interested in softwre development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... ezejohnpaul846@gmail.com
